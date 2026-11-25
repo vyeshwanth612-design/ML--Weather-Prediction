@@ -17,7 +17,7 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 4. 1. Predict temperature, PM2.5 and energy using the predict() function and display the results.
 
 ## Program:
-```
+```py
 
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
